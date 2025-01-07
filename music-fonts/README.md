@@ -1,8 +1,8 @@
 # Music Font Scripts
 
-This folder contains FontForge scripts tailored to music font processing, which involves mainstream music font formats such as the widely used SMuFL mapping, Sibelius and (older versions of) Finale's *Sonata* Layout (which has its root in the first music symbol font, *Sonata*), and the LilyPond music font layout.
+This folder contains FontForge scripts tailored to music font processing, which involves mainstream music font formats such as the widely used [SMuFL](https://w3c.github.io/smufl/latest/index.html) mapping, Sibelius and (older versions of) Finale's [*Sonata* layout](https://w3c.github.io/smufl/latest/about/brief-history.html) (which has its root in the first music symbol font, [*Sonata*](http://www.identifont.com/show?12A)), and the [LilyPond music font](https://github.com/OpenLilyPondFonts) layout.
 
-To run the scripts, you have to put the parent directory of FontForge's executable file into your system's environmental variables to ensure that you can invoke FontForge by the `fontforge` command in command line. Then directly click on the `run.bat` file in each folder and follow the instruction.
+To run the scripts, you have to put the parent directory of FontForge's executable file into your system's environmental variables to ensure that you can invoke FontForge directly by the `fontforge` command in command line. Then click on the `run.bat` file in each folder to run the scripts.
 
 The scripts are listed as follows:
 
