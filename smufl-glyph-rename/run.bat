@@ -1,0 +1,1 @@
+fontforge -lang=py -script "smufl_glyph_rename.py"
