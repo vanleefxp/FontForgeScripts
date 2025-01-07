@@ -9,7 +9,7 @@ import os
 
 DIR = os.path.dirname ( __file__ ) if "__file__" in locals ( ) else os.getcwd ( )
 
-smuflGlyphNameTable = json.loads ( open ( f"{DIR}/assets/glyphnames.json" ).read ( ) )
+smuflGlyphNameTable = json.loads ( open ( f"{DIR}/../assets/glyphnames.json" ).read ( ) )
 smuflMapping = { }
 smufl2Unicode = { }
 for glyphName, info in smuflGlyphNameTable.items ( ):

@@ -1,0 +1,1 @@
+fontforge -lang=py -script "music_font_format_convert.py"
